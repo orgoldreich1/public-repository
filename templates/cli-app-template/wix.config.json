@@ -1,5 +1,7 @@
 {
-  "appId": "d8465ba3-aafa-4acf-abe1-9d063baa25b3",
-  "projectId": "my-custom-app",
+  "appId": "ca71c1e5-4d2a-4a10-9f4a-d8b57ae4375a",
+  "projectId": "cli-template",
+  "namespace": "@gilish/cli-template",
+  "codeIdentifier": "cli_template",
   "projectType": "App"
 }

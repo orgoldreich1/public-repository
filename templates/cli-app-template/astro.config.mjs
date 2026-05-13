@@ -9,5 +9,6 @@ export default defineConfig({
   adapter: cloudflare(),
   integrations: [wix(), react()],
   image: { domains: ["static.wixstatic.com"] },
+  security: { checkOrigin: false },
   devToolbar: { enabled: false }
 });
